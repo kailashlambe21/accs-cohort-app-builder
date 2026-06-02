@@ -1,5 +1,18 @@
 {
   "meshConfig": {
+    "responseConfig": {
+      "CORS": {
+        "maxAge": 60480,
+        "methods": [
+          "GET",
+          "POST",
+          "PUT",
+          "HEAD",
+          "OPTIONS"
+        ],
+        "origin": ["http://localhost:3000", "https://main--accs-cohort--kailashlambe21.aem.page/", "https://main--accs-cohort--kailashlambe21.aem.live/"]
+      }
+    },
     "sources": [
       {
         "name": "Commerce",
