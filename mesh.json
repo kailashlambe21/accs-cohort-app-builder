@@ -10,7 +10,7 @@
           "HEAD",
           "OPTIONS"
         ],
-        "origin": ["http://localhost:3000", "https://main--accs-cohort--kailashlambe21.aem.page/", "https://main--accs-cohort--kailashlambe21.aem.live/"]
+        "origin": ["http://localhost:3000", "https://main--accs-cohort--kailashlambe21.aem.page", "https://main--accs-cohort--kailashlambe21.aem.live"]
       }
     },
     "sources": [
